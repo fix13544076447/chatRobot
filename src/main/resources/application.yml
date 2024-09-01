@@ -1,0 +1,11 @@
+server:
+  port: 8085
+spring:
+  application:
+    name: chat-robot
+
+
+
+
+api:
+  key: sk-a10b1f8fe59b4d70b7dbdb389ff9ac0f
